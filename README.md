@@ -3,7 +3,14 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
+    <div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigogueedes/rodrigogueedes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigogueedes/rodrigogueedes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigogueedes/rodrigogueedes/output/github-contribution-grid-snake.svg">
+</picture>
+    </div>
+    <br>
 <!-- Presentation -->
 <p>
   Olá! Eu sou Rodrigo Guedes Silva.
