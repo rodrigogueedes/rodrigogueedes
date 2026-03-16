@@ -32,8 +32,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Sistema de Carrinho para Lanchonete](https://github.com/rodrigogueedes/sistema-lanchonete)
-- [Estudos de Java](https://github.com/rodrigogueedes/Maratona-Java)
+- [Sistema de Carrinho para Lanchonete em Java](https://github.com/rodrigogueedes/sistema-lanchonete)
+- [Sistema de Hotel em Java](https://github.com/rodrigogueedes/sistema-hotel)
 - [Jogo da Velha em React](https://github.com/rodrigogueedes/react_tic_tac_toe)
 
 
